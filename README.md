@@ -103,7 +103,7 @@ Additional target machines can be added to the same virtual network in future pr
 ## Step 2. Install VirtualBox
 
 VirtualBox was installed as the hypervisor.
-![](2-screenshot-network-settings-1.png)
+![](2-screenshot-network-settings.png)
 ---
 
 ## Step 3. Create the NAT Network
@@ -116,7 +116,7 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-![](Screenshot-network-settings.png))
+![](Screenshot-network-settings.png)
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
