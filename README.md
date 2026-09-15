@@ -1,4 +1,4 @@
-# https-github.com-waqShadrackMonyakuMalepe-NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
+# https-github.com-ShadrackMonyakuMalepe-NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
 <div align="center">
 
 # 🔐 Cybersecurity Lab Environment Setup
