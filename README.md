@@ -116,7 +116,7 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-![](Screenshot-network-settings.png)
+![](2-screenshot-network-settings.png)
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
